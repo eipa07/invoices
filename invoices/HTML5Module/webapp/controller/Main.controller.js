@@ -15,7 +15,11 @@ sap.ui.define([
 
             onInit: () => {
 
-            }
+            },
+            onOpenDialog: function (){
+                this.getOwnerComponent().openHelloDialog();
+                
+            },
 
         });
 
