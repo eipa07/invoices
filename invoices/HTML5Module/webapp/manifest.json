@@ -60,7 +60,11 @@
 				"settings": {
 					"bundleName": "com.ui5.invoices.i18n.i18n"
 				}
-			}
+            },
+            "invoices": {
+                "type": "sap.ui.model.json.JSONModel",
+                "uri": "model/Invoices.json"
+            }
 		},
 		"resources": {
 			"css": [{

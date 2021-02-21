@@ -9,6 +9,7 @@ xmlns="sap.m" xmlns:mvc="sap.ui.core.mvc" displayBlock="true">
                 </headerContent>
                     <content>
                         <mvc:XMLView viewName="com.ui5.invoices.view.HelloPanel"></mvc:XMLView>
+                        <mvc:XMLView viewName="com.ui5.invoices.view.InvoicesList"></mvc:XMLView>
                     </content>
                 </Page>
             </pages>
