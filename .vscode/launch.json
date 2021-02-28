@@ -18,7 +18,7 @@
         "MOCK_LOOKUP_DIRS": "[\"webapp\"]",
         "run.config": "{\"handlerId\":\"ui5_run_config_handler_id\",\"runnableId\":\"/home/user/projects/invoices/HTML5Module\"}"
       },
-      "envFile": "${workspaceFolder}/invoices/HTML5Module/.env1",
+      "envFile": "${workspaceFolder}/invoices/HTML5Module/.env3",
       "preLaunchTask": "Build invoices"
     }
   ]
